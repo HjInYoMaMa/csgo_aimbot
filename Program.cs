@@ -25,7 +25,7 @@ namespace template
 
         //engine
 
-        const int clientstate = 0x058BFC4;
+        const int clientstate = 0x58CFC4;
         const int viewangles = 0x4D90;
 
         //offsets
